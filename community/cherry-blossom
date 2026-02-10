@@ -33,4 +33,6 @@
   "markup-codeblock-background-color":"#3A2430",
   "markup-spoiler-background-color":"#3A2430",
   "markup-spoiler-background-color-hover":"#2F1D27"
-},"maintainers":["Xansi"]}
+},
+  "maintainers":["Xansi"]
+}
